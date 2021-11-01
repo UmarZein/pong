@@ -32,4 +32,4 @@ waiting for connections ...
 ```
 In the end, it should look like this:
 
-![cat](game_screenshot.jpg)
+!["game screen shot"](game_screenshot.jpg)
