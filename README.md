@@ -60,4 +60,4 @@ When you're playing the game, it should look like this:
 | Open source | True |
 | Update planes | None |
 | Connection range | LAN |
-| IP Privacy | Host is asked to show local IP on run in order to let clients connect sockets |
+| IP Privacy | Host will show local IP on run in order to let clients connect sockets |
