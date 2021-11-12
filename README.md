@@ -58,6 +58,6 @@ When you're playing the game, it should look like this:
 | FPS | Modifiable; by default 60 |
 | Sounds | None | 
 | Open source | True |
-| Update planes | None |
+| Update plans | None |
 | Connection range | LAN |
 | IP Privacy | Host will show local IP on run in order to let clients connect sockets |
