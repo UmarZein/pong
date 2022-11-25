@@ -17,7 +17,7 @@ C:\your\desired\directory>cd pong
 ```
 C:\your\desired\directory\pong>python -m venv venv
 ```
-If something goes wrong, this *might* fix it:
+If something goes wrong, this might fix it:
 ```
 C:\your\desired\directory\pong>python3.8 -m venv venv
 ```
@@ -25,7 +25,11 @@ Activate the virtual environment
 ```
 C:\your\desired\directory\pong>venv\scripts\activate
 ```
-3. Install dependancies
+On linux,
+```
+$ ~/.../pong source venv/bin/activate
+```
+3. Install dependencies
 ```
 (venv) C:\your\desired\directory\pong>pip install -r requirements.txt
 ```
