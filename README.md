@@ -25,7 +25,7 @@ Activate the virtual environment
 ```
 C:\your\desired\directory\pong>venv\scripts\activate
 ```
-On linux,
+On UNIX systems,
 ```
 $ ~/.../pong source venv/bin/activate
 ```
